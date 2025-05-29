@@ -1,0 +1,52 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:Collection",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+    "ucdlib:hasLabel": {
+      "@id": "@base:/labels"
+    },
+  "schema:about": [
+    {
+     "@id": "http://id.worldcat.org/fast/1022541"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/1685275"
+    }
+  ],
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2025"
+  },
+  "schema:identifier": [
+    "ark:/87293/d3q52fm3b",
+    "MC-321"
+  ],
+  "schema:description": "Photograph album featuring images of the Mammoth Smelter and related scenes of the Mammoth Mining Company from Kennett, California at the dawn of the 20th century.",
+  "schema:image": {
+    "@id": "info:fedora/item/ark:/87293/d3q52fm3b/media/images/MC-321_001.tif"
+  },
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/NoC-NC/1.0/"
+  },
+  "schema:name": "Kennett, California Photograph Album",
+  "schema:publisher": "UC Davis Library, Archives and Special Collections",
+  "schema:sdDatePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2025"
+  },
+  "schema:sdLicense": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:sdPublisher": "UC Davis Library, Archives and Special Collections"
+}
