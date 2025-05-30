@@ -25,16 +25,16 @@
   "schema:associatedMedia": {
     "@id": "@base:/media/MC-321.pdf"
   },
-  "schema:datePublished": {
+  "schema:datePublished":{
     "@type": "http://www.w3.org/2001/XMLSchema#gYear",
-    "@value": "ca. 1910"
+    "@value": "1910"
   },
   "schema:identifier": [
     "ark:/87293/d3q52fm3b",
     "MC-321"
   ],
   "schema:image": {
-    "@id": "@base:/media/images/MC-321_001.tif"
+    "@id": "@base:/media/images/MC-321_0001_recto.tif"
   },
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/NoC-NC/1.0/"

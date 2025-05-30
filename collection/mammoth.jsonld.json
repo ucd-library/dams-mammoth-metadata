@@ -34,7 +34,7 @@
   ],
   "schema:description": "Photograph album featuring images of the Mammoth Smelter and related scenes of the Mammoth Mining Company from Kennett, California at the dawn of the 20th century.",
   "schema:image": {
-    "@id": "info:fedora/item/ark:/87293/d3q52fm3b/media/images/MC-321_001.tif"
+    "@id": "info:fedora/item/ark:/87293/d3q52fm3b/media/images/MC-321_0001_recto.tif"
   },
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/NoC-NC/1.0/"
