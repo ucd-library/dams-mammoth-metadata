@@ -19,9 +19,6 @@
   "schema:about": [
     {
      "@id": "http://id.worldcat.org/fast/1022541"
-    },
-    {
-      "@id": "http://id.worldcat.org/fast/1685275"
     }
   ],
   "schema:datePublished": {
@@ -32,7 +29,7 @@
     "ark:/87293/d3q52fm3b",
     "MC-321"
   ],
-  "schema:description": "Photograph album featuring images of the Mammoth Smelter and related scenes of the Mammoth Mining Company from Kennett, California at the dawn of the 20th century.",
+  "schema:description": "This photograph album contains images of the Mammoth Smelter and related scenes of the Mammoth Mining Company from Kennett, California from circa 1910.\n\n The scenes include the Mammoth Company hospital, the slag pot and engine, the converters inside the smelter complex, the company's power house, the tramway and substation, the track system around the company's property, the top and bottom of \"Gravity Road,\" the employees' cottages and bunk houses set into the hills above the smelter, cranes and trains working around the smelter, including the \"Bullion Train\" and ore trains transporting raw materials extracted from the mine. \n\n There are also scenes showing men on the change floor of the smelter, on the furnace floor, a yard crew standing around a train car, a shot of about fifty men at the Mammoth Mine entrance, and a group photograph of fifteen machinists. \n\n The last four photographs differ from the majority of the images and emanate from the Willotta Ranch in Suisun Valley, California. All four photographs depict a man on a motorized \"spray outfit\" in the process of fumigating an orchard.\n\n The collection’s finding aid is available at the [Online Archive of California](https://oac.cdlib.org/findaid/ark:/13030/c8vh5w3f/).",
   "schema:image": {
     "@id": "info:fedora/item/ark:/87293/d3q52fm3b/media/images/MC-321_0001_recto.tif"
   },

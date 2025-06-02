@@ -12,9 +12,5 @@
     {
         "@id": "http://id.worldcat.org/fast/1022541",
         "http://schema.org/name": "Mines and mineral resources"
-    },
-    {
-   		"@id": "http://id.worldcat.org/fast/1685275",
-   		"http://schema.org/name": "Michael and Margaret B. Harrison Western Research Center"
     }
 ]
