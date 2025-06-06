@@ -22,10 +22,6 @@
   "schema:associatedMedia": {
     "@id": "@base:/media/MC-321.pdf"
   },
-  "schema:datePublished":{
-    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
-    "@value": "1910"
-  },
   "schema:identifier": [
     "ark:/87293/d3q52fm3b",
     "MC-321"
